@@ -1,0 +1,10 @@
+curl
+vim
+gimp
+vlc
+glances
+gparted
+hardinfo
+spotify-client
+zsh
+fonts-powerline
